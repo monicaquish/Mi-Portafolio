@@ -1,6 +1,6 @@
 # Mi-Portafolio
 
-Tecer proyecto, mi portafolio
+Tecer proyecto, mi portafolio.
 
 
 ### VISTA PREVIA
